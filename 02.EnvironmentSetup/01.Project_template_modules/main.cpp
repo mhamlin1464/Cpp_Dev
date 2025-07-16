@@ -14,4 +14,5 @@ int main(){
     fmt::print("Hello Mark \n");
     fmt::print("Hello World! We are using modern C++ \n");
     fmt::print("Result: {}\n", result);
+    fmt::print("What is up!");
 }
